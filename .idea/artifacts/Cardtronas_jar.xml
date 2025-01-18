@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cardtronas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cardtronas_jar</output-path>
+    <root id="archive" name="Cardtronas.jar">
+      <element id="module-output" name="Cardtronas" />
+    </root>
+  </artifact>
+</component>
