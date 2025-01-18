@@ -6,7 +6,7 @@
 
    **Example:**
    ```
-   cd C:\Coding\CPT316
+   cd C:\Users\Axler\Downloads\Programs
    ```
 5. Download the source code by using this command.
    ```
@@ -14,7 +14,7 @@
    ```
 6. Change the path within its parent folder.
    ```
-   cd CPT316-Assignment-2
+   cd C:\Users\Axler\Downloads\Programs\Cardtronas-main\src
    ```
 7. Compile the java file by using this command.
    ```
